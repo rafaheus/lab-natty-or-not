@@ -32,10 +32,7 @@ Tensor.Art
 Utilizei de um prompt já disponível por alguém na plataforma.
 
 ## 🚀 Resultados
-![4](https://github.com/user-attachments/assets/37e3e184-caa5-4017-8ead-c92404f3688c)
-![3](https://github.com/user-attachments/assets/b724c784-e60a-43bc-8ab3-7af0b36aa4df)
-![2](https://github.com/user-attachments/assets/a69d75dc-07dc-46ce-a949-9565feb41544)
-![1](https://github.com/user-attachments/assets/6966c004-a49b-4a1f-bb58-69b685e103da)
+<img width="460" src="1.png">
 
 
 ## 💭 Reflexão (Opcional)
