@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Rafael aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -20,22 +20,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Pessoa real ou pessoa gerada por IA?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Aqui temos 4 imagens e o desafio é dizer se tem imagens de IA ou não.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Tensor.Art
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei de um prompt já disponível por alguém na plataforma.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![4](https://github.com/user-attachments/assets/37e3e184-caa5-4017-8ead-c92404f3688c)
+![3](https://github.com/user-attachments/assets/b724c784-e60a-43bc-8ab3-7af0b36aa4df)
+![2](https://github.com/user-attachments/assets/a69d75dc-07dc-46ce-a949-9565feb41544)
+![1](https://github.com/user-attachments/assets/6966c004-a49b-4a1f-bb58-69b685e103da)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar algo com IA nunca foi tão fácil, hoje com o tanto de ferramentas disponíveis no mercado, é possível fazer coisas extraordinárias com apenas uma linha de texto.
 ```
 
 ### Exemplos e Insigths
